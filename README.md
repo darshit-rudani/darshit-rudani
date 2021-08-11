@@ -49,7 +49,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Darshit Rudani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darshit-rudani&theme=dark&hide_border=false&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Darshit Rudani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darshit-rudani&theme=dark&hide_border=false&"/>
     </a>
 </p>
 
@@ -58,7 +58,7 @@
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Darshit Rudani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshit-rudani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Darshit Rudani's Top Languages" src="" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Darshit Rudani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit-rudani&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
