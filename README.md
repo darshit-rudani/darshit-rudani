@@ -48,7 +48,7 @@
 <br/>
 
 <p align="center">
-    <a href="">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=darshit-rudani&theme=cobalt&hide_border=false&">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Darshit Rudani's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=darshit-rudani&theme=cobalt&hide_border=false&"/>
     </a>
 </p>
@@ -56,10 +56,10 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href=""><img alt="Darshit Rudani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshit-rudani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <a href=""><img alt="Darshit Rudani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit-rudani&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=darshit-rudani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"><img alt="Darshit Rudani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darshit-rudani&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit-rudani&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722"><img alt="Darshit Rudani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit-rudani&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722" /></a>
   
-  <a href=""><img alt="Darshit Rudani's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darshit_rudani&&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=darshit_rudani&&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722"><img alt="Darshit Rudani's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=darshit_rudani&&langs_count=20&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D111722" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-<a href=""><img alt="Darshit Rudani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshit-rudani&theme=dracula&bg_color=0D1117&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=darshit-rudani&theme=dracula&bg_color=0D1117&point=FFFFFF&hide_border=true"><img alt="Darshit Rudani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshit-rudani&theme=dracula&bg_color=0D1117&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
