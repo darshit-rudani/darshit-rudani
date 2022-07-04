@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 i am currently studying in B.tech(IT) at **[Uka Tarsadia University](http://utu.ac.in/)**
+- 🔭 I'm currently working at **[Vision Infotech](https://visioninfotech.net/)**
 
-- 🌱 I’m currently learning **Mobile Application Development With Flutter.**
+- 🌱 I am bachelor from chhotubhai gopalbhai patel institute of technology (2018-2022)
 
 - 👯 I’m looking to collaborate on **Flutter Open-Source project**
 
