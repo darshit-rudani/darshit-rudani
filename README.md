@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working at **[Vision Infotech](https://visioninfotech.net/)**
+- 🔭 I'm Flutter Developer**
 
 - 🌱 I am bachelor from chhotubhai gopalbhai patel institute of technology (2018-2022)
 
