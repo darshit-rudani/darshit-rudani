@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I am bachelor from chhotubhai gopalbhai patel institute of technology (2018-2022)
+- 🌱 I studied Bachelor's of Technology in Information Technology from C. G. Patel Institute of Technology affiliated under Uka Tarsadia University with 7.88 CGPA.
 
 - 👯Ask me about anything related to Flutter
 
