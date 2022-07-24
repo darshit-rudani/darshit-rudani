@@ -1,14 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">, I'm Darshit</h1>
-<h3 align="center">I'm a Mobile Application Developer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">, I'm Darshit Rudani</h1>
+<h3 align="center">I'm a Flutter Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm Flutter Developer**
+- 🔭 I’m currently working on something cool 😉
 
 - 🌱 I am bachelor from chhotubhai gopalbhai patel institute of technology (2018-2022)
 
-- 👯 I’m looking to collaborate on **Flutter Open-Source project**
+- 👯Ask me about anything related to Flutter
 
 - 👨‍💻 All of my projects are available at My GitHub Profile
 
