@@ -8,7 +8,7 @@
 
 - 🌱 I studied Bachelor's of Technology in Information Technology from C. G. Patel Institute of Technology affiliated under Uka Tarsadia University with 7.88 CGPA.
 
-- 👯Ask me about anything related to Flutter
+- 👯 Ask me about anything related to Flutter
 
 - 👨‍💻 All of my projects are available at My GitHub Profile
 
