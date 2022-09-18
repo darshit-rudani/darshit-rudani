@@ -38,9 +38,9 @@
 ## 🚀 Tools :
 <br>
 <p align="left"> 
+    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/> </a>
-    <a href="https://developer.android.com/studio/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/java-eclipse.png"/> </a> 
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
 </p>
