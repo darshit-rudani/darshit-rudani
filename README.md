@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">, I'm Darshit Rudani</h1>
-<h3 align="center">I'm a passionate Flutter Developer from India.</h3>
+<h3 align="center">🚀 Passionate Professional | Mobile Application Developer (Flutter & Dart)📱</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I studied Bachelor's of Technology in Information Technology from C. G. Patel Institute of Technology affiliated under Uka Tarsadia University with 7.88 CGPA.
+- 🌱 I studied Bachelor of Technology in Information Technology from C. G. Patel Institute of Technology affiliated under Uka Tarsadia University with a 7.88 CGPA.
 
 - 👯 Ask me about anything related to Flutter
 
@@ -17,6 +17,11 @@
 - 📫 How to reach me **rdarshit111@gmail.com**
 
 - ⚡ Fun fact **I play games and watch YouTube videos.**
+
+🔍 About Me:
+I'm a results-oriented Flutter developer with a deep passion for crafting seamless and engaging mobile applications. I'm familiar with applicable building codes, relevant project planning, and application development lifecycle. I am fully skilled in providing the required application to the client and managing the project. I'm able to find the solution to any problem and get things done.
+
+Looking forward to connecting with fellow Flutter enthusiasts and creating innovative mobile experiences together! 👨‍💻✨
 
 ## 🚀 Languages :
 <br>
